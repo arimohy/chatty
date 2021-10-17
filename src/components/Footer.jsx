@@ -4,7 +4,8 @@ function Footer() {
   return (
     <footer className="pt-5">
       <div className="container text-center">
-        <p>&copy; Chatty 2020.</p>
+        <p>&copy; Chatty 2021 Sofka.</p>
+        <p>Yhomira Alexandra Yupayccana Lopa .</p>
       </div>
     </footer>
   )
